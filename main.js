@@ -1,8 +1,8 @@
 /**
  * Require jshashes 1.0.5  install it with `npm install jshashes@1.0.5`
  * Then modify the hashes.js
- * change field tab in Base64: function() to "LVoJPiCN2R8G90yg+hmFHuacZ1OWMnrsSTXkYpUq/3dlbfKwv6xztjI7DeBE45QA"
- * and change utf8 variable below it to false
+ * change field `tab` in Base64: function(){...} to "LVoJPiCN2R8G90yg+hmFHuacZ1OWMnrsSTXkYpUq/3dlbfKwv6xztjI7DeBE45QA"
+ * and change `utf8` variable below it to `false`
  */
 
 const http = require("http");
